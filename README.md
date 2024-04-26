@@ -30,8 +30,8 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanhussain08&show_icons=true&locale=en&layout=compact" alt="usmanhussain08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Usman600&show_icons=true&locale=en&layout=compact" alt="Usman600" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanhussain08&show_icons=true&locale=en" alt="usmanhussain08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Usman600&show_icons=true&locale=en" alt="Usman600" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanhussain08&" alt="usmanhussain08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Usman600&" alt="Usman600" /></p>
