@@ -1,37 +1,37 @@
-# Hello, I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm Muhammad Usman Hussain</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
-Welcome to my GitHub profile! I'm passionate about coding and creating awesome projects. Here's a little about me:
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-- 🌱 I'm constantly learning and improving my coding skills.
-- 💻 I enjoy working on Python projects, crafting websites with HTML/CSS, and exploring new technologies.
-- 🚀 Currently diving deep into machine learning and data science with Python.
-- 💬 Feel free to reach out to me for collaborations or just to chat about coding!
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-## Skills
+- 🌱 I’m currently learning **Python, Django, flask**
 
-### Programming Languages
-- Python
-- HTML
-- CSS
+- 💬 Ask me about **Machine Learning**
 
-### Other Skills
-- Git version control
-- Responsive web design
-- Problem-solving
+- 📫 How to reach me: **shiekhusman677@gmail.com**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammadusmanhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Usman Hussain" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
+<a href="https://facebook.com/muhammadusmanhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad Usman Hussain" height="30" width="40" /></a>
+</p>
 
-Here are some of my projects I've been working on:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+</p>
 
-1. [Project 1](link-to-project) - Brief description of the project.
-2. [Project 2](link-to-project) - Brief description of the project.
-3. [Project 3](link-to-project) - Brief description of the project.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanhussain08&show_icons=true&locale=en&layout=compact" alt="usmanhussain08" /></p>
 
-## Let's Connect
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanhussain08&show_icons=true&locale=en" alt="usmanhussain08" /></p>
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: shiekhusman677@gmail.com
-- Website: [Your Portfolio Website](link-to-portfolio)
-- Twitter: [Your Twitter Handle](link-to-twitter)
-
-Feel free to explore my repositories and don't hesitate to drop me a message. Let's create something amazing together! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanhussain08&" alt="usmanhussain08" /></p>
