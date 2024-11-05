@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman Hussain</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F5yl.fandom.com%2Fwiki%2FGut_Buster&psig=AOvVaw1Z_8qX411qa-PsybQK3obK&ust=1730901244603000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiF9tO3xYkDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url">
 
 - 🔭 I’m currently working on **Data Science Projects**
 
