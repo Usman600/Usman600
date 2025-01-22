@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Odoo, Django, flask**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science and Odoo**
 
 - 📫 How to reach me: **shiekhusman677@gmail.com**
 
