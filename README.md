@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman Hussain</h1>
-<h3 align="center">A passionate Python Developer</h3>
+<h3 align="center">A passionate Odoo Python Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url">
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Data Science and Odoo Projects**
 
-- 🌱 I’m currently learning **Python, Django, flask**
+- 🌱 I’m currently learning **Python, Odoo, Django, flask**
 
 - 💬 Ask me about **Data Science**
 
