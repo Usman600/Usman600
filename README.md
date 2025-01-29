@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b6480567-1afa-4224-bd75-1199899cdaef)<h1 align="center">Hi 👋, I'm Muhammad Usman Hussain</h1>
 <h3 align="center">A passionate Odoo Python Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3-2XYhlTyLW4LTfFG0hmZj&ust=1738244335671000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi95_WGm4sDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🔭 I’m currently working on **Data Science and Odoo Projects**
 
